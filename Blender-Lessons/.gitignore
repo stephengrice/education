@@ -1,0 +1,5 @@
+*.mp4
+*.png
+*.gif
+__pycache__
+!sample.mp4
